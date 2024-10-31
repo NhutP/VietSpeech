@@ -1,5 +1,5 @@
 
-# VSV-1100: Vietnamese social voice dataset
+# [VSV-1100: Vietnamese social voice dataset](https://huggingface.co/datasets/NhutP/VSV-1100)
 ## Introdution
 
 This dataset includes over 1,100 hours of speech data. The voice samples were collected from a variety of social resources, ensuring a diverse representation of accents, dialects, and speaking styles. This diversity makes the dataset particularly valuable for training and evaluating ASR models, as it enhances their ability to accurately recognize and transcribe speech across different linguistic and cultural contexts.
@@ -53,7 +53,5 @@ transcription = ds[0]['transcription']
     year = {2024}
 }
 ```
-Also, please give us a star on github: https://github.com/NhutP/VSV-1100 if you find our project useful
-
 
 Contact me at: 22521061@gm.uit.edu.vn (Pham Quang Nhut)
